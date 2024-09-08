@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nihal Srivastava @nihals01
 - 👀 I’m interested in learing new technologies
 - 🌱 I’m currently learning Full Stack.
-- 📫 How to reach me email@ nihal010697@gmail.com or dm @ 9031775439 (No calls please).
+- 📫 How to reach me email@ nihal010697@gmail.com
 - Test Changes
 
 <!---
